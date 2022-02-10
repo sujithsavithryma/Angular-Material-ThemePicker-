@@ -47,6 +47,6 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~3.8.3",
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   }
 }
